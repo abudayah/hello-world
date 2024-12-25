@@ -1,3 +1,10 @@
+# [1.1.0-dev.2](https://github.com/abudayah/hello-world/compare/v1.1.0-dev.1...v1.1.0-dev.2) (2024-12-25)
+
+
+### Bug Fixes
+
+* **greet:** minor change ([a079647](https://github.com/abudayah/hello-world/commit/a0796471b8506b19e8a71839bda058417750dc94))
+
 # [1.1.0-dev.1](https://github.com/abudayah/hello-world/compare/v1.0.0...v1.1.0-dev.1) (2024-12-25)
 
 
