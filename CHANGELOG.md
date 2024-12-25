@@ -1,3 +1,10 @@
+# [1.0.0-dev.4](https://github.com/abudayah/hello-world/compare/v1.0.0-dev.3...v1.0.0-dev.4) (2024-12-25)
+
+
+### Bug Fixes
+
+* **name:** change name ([780020b](https://github.com/abudayah/hello-world/commit/780020b8be0d510e1bb1c55b4dc82165b2d16034))
+
 # [1.0.0-dev.3](https://github.com/abudayah/hello-world/compare/v1.0.0-dev.2...v1.0.0-dev.3) (2024-12-25)
 
 
