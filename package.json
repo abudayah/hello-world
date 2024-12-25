@@ -8,6 +8,7 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo \"Hello world\" && exit 1",
     "build": "tsc",
     "semantic-release": "semantic-release"
   },
