@@ -1,3 +1,10 @@
+# [1.1.0-dev.1](https://github.com/abudayah/hello-world/compare/v1.0.0...v1.1.0-dev.1) (2024-12-25)
+
+
+### Features
+
+* **greet:** add last name ([43f1af3](https://github.com/abudayah/hello-world/commit/43f1af30a75fcaec4009a92b9c5116e0ab9b1621))
+
 # 1.0.0 (2024-12-25)
 
 
