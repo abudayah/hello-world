@@ -1,3 +1,15 @@
+# [1.0.0-dev.6](https://github.com/abudayah/hello-world/compare/v1.0.0-dev.5...v1.0.0-dev.6) (2024-12-25)
+
+
+### Features
+
+* **greet:** first release ([c77b118](https://github.com/abudayah/hello-world/commit/c77b11885c1403bf15387ada05d3e02b591673dc))
+
+
+### BREAKING CHANGES
+
+* **greet:** ready for public
+
 # [1.0.0-dev.5](https://github.com/abudayah/hello-world/compare/v1.0.0-dev.4...v1.0.0-dev.5) (2024-12-25)
 
 
