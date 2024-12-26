@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/abudayah/hello-world/compare/v1.2.1...v1.2.2) (2024-12-26)
+
+
+### Bug Fixes
+
+* **minor:** small update ([16d5cb4](https://github.com/abudayah/hello-world/commit/16d5cb4b390466231f65ebe8dfb19c88aee81aa3))
+
 ## [1.2.1](https://github.com/abudayah/hello-world/compare/v1.2.0...v1.2.1) (2024-12-26)
 
 
