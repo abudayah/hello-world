@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/abudayah/hello-world/compare/v1.2.0...v1.2.1) (2024-12-26)
+
+
+### Bug Fixes
+
+* **minor:** first name ([4654cd5](https://github.com/abudayah/hello-world/commit/4654cd5adc0e01907c8190f96db8b1043949c942))
+
 # [1.2.0](https://github.com/abudayah/hello-world/compare/v1.1.1...v1.2.0) (2024-12-26)
 
 
