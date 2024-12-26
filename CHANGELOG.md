@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/abudayah/hello-world/compare/v1.2.2...v1.2.3) (2024-12-26)
+
+
+### Bug Fixes
+
+* **build:** add prerelase version ([c7410e1](https://github.com/abudayah/hello-world/commit/c7410e12a8074ad8d53b1c50d0e0dad99b65d3ac))
+
 ## [1.2.3-dev.1](https://github.com/abudayah/hello-world/compare/v1.2.2...v1.2.3-dev.1) (2024-12-26)
 
 
