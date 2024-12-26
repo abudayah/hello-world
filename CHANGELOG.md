@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/abudayah/hello-world/compare/v1.1.1...v1.2.0) (2024-12-26)
+
+
+### Features
+
+* **first name:** update ([f544eb8](https://github.com/abudayah/hello-world/commit/f544eb8dcfba2b9738a6fd36284fa058f3aa9ce8))
+
 ## [1.1.1](https://github.com/abudayah/hello-world/compare/v1.1.0...v1.1.1) (2024-12-26)
 
 
